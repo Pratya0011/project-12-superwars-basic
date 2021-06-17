@@ -64,7 +64,7 @@ Dustin and Lucus wants to create players.In `initPlayers()`, loop through passed
 
 ### Progression 2: Courage is grace
 
-Add your logic in `getRandomStrength()` method, such that it should _return a random strength_ from 1 to 100. The strength is what is gonna decide the winner.
+    Add your logic in `getRandomStrength()` method, such that it should _return a random strength_ from 1 to 100. The strength is what is gonna decide the winner.
 
 ### Progression 3: No player should fall
 
